@@ -1,0 +1,1 @@
+This repsoitory includes an EDA(Exploratory data analysis) about the sales report of a grocery store named "Balaji store" . Implemented Python library(pandas, numpy, matplotlib, seaborn) functions to inspect, summarize, and visualize data to uncover trends, patterns, and relationships within the data.
